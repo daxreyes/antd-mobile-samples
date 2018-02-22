@@ -14,12 +14,12 @@
     "ios": "react-native-scripts ios"
   },
   "dependencies": {
-    "antd-mobile": "next",
-    "antd-mobile-demo-data": "^0.1.4",
-    "expo": "^21.0.0",
+    "antd-mobile": "^2.1.6",
+    "antd-mobile-demo-data": "^0.2.0",
+    "expo": "^25.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-native": "^0.48.4",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
     "react-navigation": "^1.0.0-beta.11"
   }
 }
